@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 
 const botArgs = {
-    host: 'jewelfish.aternos.host',
+    host: 'quillfish.aternos.host',
     port: '12460',
     username: "afkbot"
 };
