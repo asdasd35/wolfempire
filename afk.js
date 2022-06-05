@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 
 const botArgs = {
-    host: 'oyster.aternos.host',
+    host: 'W0LFEMPIRE.aternos.me',
     port: 12460,
     username: "afkbot"
 };
