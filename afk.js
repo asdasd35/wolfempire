@@ -1,9 +1,9 @@
 const mineflayer = require('mineflayer');
 
 const botArgs = {
-    host: 'W0LFEMPIRE.aternos.me',
-    port: 12460,
-    username: "afkbot"
+    host: 'csonaksmp.aternos.me',
+    port: 50222,
+    username: "csonakbot"
 };
 
 const initBot = () => {
@@ -21,7 +21,7 @@ const initBot = () => {
     });
 
     bot.on('login', async () => {
-        bot.chat("/login 123")
+        bot.chat("/login sonka")
     });
 
     bot.on('end', () => {
