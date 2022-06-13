@@ -4,7 +4,7 @@ const botArgs = {
     host: 'csonaksmp.aternos.me',
     port: 50222,
     username: "csonakbot",
-    version: "1.19"
+    version: "1.18"
 };
 
 const initBot = () => {
