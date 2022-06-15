@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer');
 
 const botArgs = {
-    host: 'csonaksmp.aternos.me',
+    host: 'csonaksmp.tk',
     port: 50222,
     username: "csonakbot",
     version: "1.18"
